@@ -11,3 +11,6 @@ Tweets on twitter through cypress.
 ## Run
 To run/view tests:
 `npx cypress open`
+
+## Troubleshooting
+If twitter's login form is not displayed on visiting the login page of twitter. Try and try again until you succeed :sunglasses:.
