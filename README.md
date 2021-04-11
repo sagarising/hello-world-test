@@ -5,7 +5,7 @@ Tweets on twitter through cypress.
 ## Pre-requisites
 * node
 * npm
-* ENV variable that has your twitter password. On bash you can do that by `export CYPRESS_TWITTER_PASSWORD='*******'` before running cypress.
+* ENV variables for your twitter credentials. On bash you can do that by `export CYPRESS_TWITTER_USERNAME='sagarmaurya2';export CYPRESS_TWITTER_PASSWORD='*******'` before running cypress.
 
 ## Run
 To run/view tests:
