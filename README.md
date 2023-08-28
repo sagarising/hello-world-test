@@ -1,16 +1,12 @@
 ## Overview
 
-Tweets on twitter through cypress.
+Tests hello world app functionality through cypress.
 
 ## Pre-requisites
 * node
 * npm
 * Run `npm install` to fetch all project dependencies
-* ENV variables for your twitter credentials. On bash you can do that by `export CYPRESS_TWITTER_USERNAME='sagarmaurya2';export CYPRESS_TWITTER_PASSWORD='*******'` before running cypress.
+* Run the [hello world](https://github.com/sagarising/hello-world) app on port 5000
 
 ## Run
 To run/view tests:
-`npx cypress open`
-
-## Troubleshooting
-If twitter's login form is not displayed on visiting the login page of twitter. Try and try again until you succeed :sunglasses:.
